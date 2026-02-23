@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Aybars
 
-<!--
-**aybarsnazlica/aybarsnazlica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Platform Engineer at MOLCURE Inc., where I build scalable data and AI infrastructure to support scientific research.
 
-Here are some ideas to get you started:
+I focus on designing reliable data systems, building developer-friendly platforms, and enabling machine learning at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Work On
+
+- Data platforms and internal developer tooling  
+- Distributed data processing and storage systems  
+- Machine learning infrastructure and inference platforms  
+- Cloud-native architecture (AWS, Kubernetes, Docker)  
+- Workflow orchestration and data pipelines  
+
+---
+
+### What I Like Exploring
+
+In my free time, I enjoy working on:
+
+- Programming languages and type systems  
+- Compilers and interpreters  
+- Language runtimes and performance  
+- Systems programming, especially in Rust  
+- Building systems from first principles  
+
+---
+
+### Interests
+
+- Data infrastructure design  
+- Language and compiler internals  
+- Scalable system architecture  
+- Machine learning systems engineering  
+- Open source  
+
+---
+
+I enjoy building robust systems and understanding how things work under the hood.
