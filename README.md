@@ -1,4 +1,4 @@
-## Hi, I'm Aybars
+## Hi, I'm Aybars 👋
 
 I'm a Data Platform Engineer at MOLCURE Inc., where I build scalable data and AI infrastructure to support scientific research.
 
