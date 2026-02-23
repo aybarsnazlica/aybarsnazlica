@@ -28,14 +28,4 @@ In my free time, I enjoy working on:
 
 ---
 
-### Interests
-
-- Data infrastructure design  
-- Language and compiler internals  
-- Scalable system architecture  
-- Machine learning systems engineering  
-- Open source  
-
----
-
 I enjoy building robust systems and understanding how things work under the hood.
