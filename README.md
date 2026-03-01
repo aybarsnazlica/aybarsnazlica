@@ -10,8 +10,8 @@ I focus on designing reliable data systems, building developer-friendly platform
 
 - Data platforms and internal developer tooling
 - Distributed data processing and storage systems
+- Workflow orchestration and data pipelines
 - Machine learning infrastructure and inference platforms
-- Workflow orchestration and data pipelines  
 
 ---
 
@@ -21,4 +21,3 @@ In my free time, I enjoy working on:
 
 - Programming languages and type systems  
 - Compilers and interpreters
-- Systems programming, especially in Rust
