@@ -1,6 +1,6 @@
 ## Hi, I'm Aybars 👋
 
-I'm a Data Platform Engineer at MOLCURE Inc., where I build scalable data and AI infrastructure to support antibody research.
+I'm a Data Platform Engineer at MOLCURE Inc., where I build scalable data and AI infrastructure to support antibody engineering.
 
 I focus on designing reliable data systems, building developer-friendly platforms, and enabling machine learning at scale. I enjoy building robust systems and understanding how things work under the hood.
 
